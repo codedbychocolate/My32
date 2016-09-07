@@ -7,10 +7,10 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/splash_title"
+        android:id="@+id/login_title"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="SPLASH"
+        android:text="LOGIN"
         android:layout_gravity="center"
         android:textSize="@android:dimen/notification_large_icon_height"
         android:textStyle="bold"
