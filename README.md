@@ -1,0 +1,6 @@
+# My32
+
+App to track the noble pursuit of visiting every county in Ireland...
+And having a drink while there...
+
+Craic, ceol agus ol
